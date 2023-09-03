@@ -15,7 +15,7 @@ But more frequently Windows can be observed as only OS in stores.
 
 ## Government
 No info that I can say say confidently. But as far as I know it is starting to be more and more widespread.
-Also, interestingly, there was a moment when [guy was sued because he installed FOSS on hardware](https://www.securitylab.ru/news/540852.php)
+Also, interestingly, there was a moment when [guy was sued because he installed FOSS system](https://www.securitylab.ru/news/540852.php)
 (long story short: he *was* working for Roskosmos and installed FOSS alternative for some software that was already in use, after that FBI claimed that it all was insecure. So he was sued. That is it. I can see why it happened, so it is just sad, guy was wrong.)
 
 ## Everyone else
