@@ -9,5 +9,11 @@ After some investigation an idea struck me: "Nobody knows about beauty of Linux 
 Now I want to share my small (at this moment) research.
 Feel free to ask questions in **issues**, I'll do my best to answer and extend this research repo
 
+## TODOs
+- [ ] Fix document layout
+- [ ] Add more info about Russian linux distributions
+- [ ] Fix grammar
+- [ ] Try to elaborate why still no linux :(
+
 ## TL;DR
 Linux bad. Windows not that bad
