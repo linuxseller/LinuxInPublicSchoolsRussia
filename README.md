@@ -8,3 +8,6 @@ After some investigation an idea struck me: "Nobody knows about beauty of Linux 
 
 Now I want to share my small (at this moment) research.
 Feel free to ask questions in **issues**, I'll do my best to answer and extend this research repo
+
+## TL;DR
+Linux bad. Windows not that bad
